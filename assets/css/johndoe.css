@@ -163,6 +163,7 @@ sup {
 
 a {
   color: #F85C70;
+  /*link text color*/
   text-decoration: none;
   background-color: transparent;
 }
@@ -11230,7 +11231,8 @@ p {
           transform: translate(-50%, -50%);
   width: 100%;
   height: 100%;
-  background: rgba(248, 92, 112, 0.8);
+  /*HOVER COLOR HERE, original 248, 92, 112, 0.8*/
+  background: rgba(210, 190, 190, 0.8);
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
